@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: 'Caleb';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/CSCalebMono-Regular_demo-BF66fdfdb41c984.otf) format('woff2');
+}
