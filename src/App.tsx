@@ -10,6 +10,7 @@ const App = () => {
 <div className="font-mono">
 <Navbar></Navbar>
   <Landing></Landing>
+  Testing application
 </div>
 
   );
